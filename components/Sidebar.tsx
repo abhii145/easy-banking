@@ -19,7 +19,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
             alt="Bank logo"
             className="size-[24px] max-xl:size-14"
           />
-          <h1 className="sidebar-logo">Easy Banking</h1>
+          <h1 className="sidebar-logo">Easy Bank</h1>
               </Link>
               {
                   sidebarLinks.map((item) => {
